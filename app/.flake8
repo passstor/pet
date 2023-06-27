@@ -7,4 +7,3 @@ exclude =
     .venv,
     manage.py,
     settings.py,
-
